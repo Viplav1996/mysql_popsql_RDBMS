@@ -1,0 +1,31 @@
+## Installing MySQL and popsql:
+
+Go to https://dev.mysql.com/downloads/windows/installer/8.0.html
+
+It will directly take you to the download page and then click on the setup which is compatible with your Operating system configuration (x32 or x64)
+      Once donwlaoded
+      Click on the install
+      Next
+      You can go next all the way till excecution or if you know what you want you can donwload a specific version
+      Install it and then it will be good to go
+      Next open the mysql serevr commuinty in the installed options
+      Open a mysql version which you have selected or want to use, then configure it
+            Configuring is easy, jsut set the details and give it a password which will come in handy
+            once configured save it all and then close it
+            Now open My SQL command line, and then input your passowrd
+            Voila, you are connected to the databse and are good to go
+            For demo: create a my sql table by inputting the command: create database name_of_table;
+            And your database is created and ready to use
+
+Then after its downloaded go to https://popsql.com/ 
+
+Download the desktop version.
+      Open is and install it(use your email or gmail account to install it: mandatory)
+      Later on just intall it normally and it will be done within few minutes
+      After the installation open the PopSQL
+            Now click on the downward arrow on the top of navbar beside the +invite sign
+            It will show you the available database and then you can click on plus to add yours
+            Fill in all the details as you want and add the name of databse similar to the one which you created in the mySQL
+            Voila, now the mySQL and popSQL are connected and ready to be used
+            
+
